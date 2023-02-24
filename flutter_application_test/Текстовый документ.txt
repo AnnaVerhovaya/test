@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ggggggggggggggggggggg
 jjjjjjjjjjjjjjjjjjjjjjj
+=======
+ggggggggggggggggggggg
+>>>>>>> aa
